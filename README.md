@@ -13,7 +13,7 @@ Feature Rows: Each row highlights a different feature of Netflix with text and a
 <h2>FAQ Section</h2>
 
 Accordion List: A list of frequently asked questions with answers that expand when clicked.
-F<h2>ooter</h2>
+<h2>Footer</h2>
 
 Contact Information: Provides a contact number for questions.
 Footer Links: Organized into columns with links to various resources.
