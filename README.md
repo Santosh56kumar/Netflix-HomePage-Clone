@@ -1,1 +1,2 @@
 # Netflix-HomePage-Clone
+This project is a static HTML page designed to mimic the Netflix India homepage. It includes various sections such as a header, features, frequently asked questions (FAQs), and a footer. The page is styled with CSS and uses Font Awesome for icons.
